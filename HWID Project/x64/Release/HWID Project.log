@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Pasta Adriano\HWID-Info-Grabber-master\HWID Project\Main.cpp(36,39): warning C4552: '!=': o resultado da expressão não é usado
+  Gerando código
+  305 of 314 functions (97.1%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  HWID Project.vcxproj -> D:\Pasta Adriano\HWID-Info-Grabber-master\x64\Release\HWID Project.exe
